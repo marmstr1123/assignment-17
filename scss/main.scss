@@ -1,0 +1,22 @@
+@import "./imports/_normalize.scss";
+
+*{ box-sizing: border-box }
+img {
+   width: 100%;
+   display: block;
+}
+
+#app-container{
+   .columns-Container{
+      padding: 15px;
+      padding-top: 20px;
+      padding-bottom: 10px;
+   }
+   .left-col{
+      background:radial-gradient( 10%,rgba(0, 0, 0, 0) 85%);
+   }
+   .right-col{
+
+      background:grey;
+   }
+}
