@@ -376,7 +376,7 @@ img {
   padding-top: 20px;
   padding-bottom: 10px; }
 #app-container .left-col {
-  background: radial-gradient(10%, transparent 85%); }
+  background: radial-gradient(10%, rgba(255, 222, 6, 0.5), 85%); }
 #app-container .right-col {
   background: grey; }
 
